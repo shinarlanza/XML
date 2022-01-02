@@ -1,0 +1,231 @@
+<?xml version = "1.0" encoding = "utf-8"?>
+
+<!DOCTYPE people SYSTEM "people.dtd">
+
+<people>
+	<person>
+		<name> 
+
+			<Fname>Joshua Andrei</Fname>
+			<Lname>Ventura</Lname>
+
+		</name>
+
+		<age>21</age>
+
+		<sex> male </sex>
+
+		<bday>
+			<month>04</month>
+			<day>26</day>
+			<year>2000</year>
+		</bday>
+
+		<address>
+			<city>n.a</city>
+			<province>Aklan</province>
+			<town>Kalibo</town>
+		</address>
+
+	</person>
+
+	<person>
+		
+		<name>
+			<Fname>Elmar Cris</Fname>
+			<Lname>Garcia</Lname>
+		</name>
+
+		<age>21</age>
+
+		<sex> male </sex>
+
+		<bday>
+			<month>06</month>
+			<day>21</day>
+			<year>2000</year>
+		</bday>
+
+		<address>
+			<city>n.a</city>
+			<province>Antique</province>
+			<town>Culasi</town>
+		</address>
+
+	</person>
+
+		<person>
+		
+		<name>
+			<Fname>Albert Anthony</Fname>
+			<Lname>Polong</Lname>
+		</name>
+
+		<age>21</age>
+
+		<sex> male </sex>
+
+		<bday>
+			<month>03</month>
+			<day>04</day>
+			<year>2000</year>
+		</bday>
+
+		<address>
+			<city>n.a</city>
+			<province>Antique</province>
+			<town>Tobias Fornier</town>
+		</address>
+
+	</person>
+
+	<person>
+		
+		<name>
+			<Fname>Sheina</Fname>
+			<Lname>Arlanza</Lname>
+		</name>
+
+		<age>21</age>
+
+		<sex> female </sex>
+
+		<bday>
+			<month>11</month>
+			<day>19</day>
+			<year>2000</year>
+		</bday>
+
+		<address>
+			<city>Passi</city>
+			<province>Iloilo</province>
+			<town>n.a</town>
+		</address>
+
+	</person>
+
+	<person>
+		
+		<name>
+			<Fname>J-Anne</Fname>
+			<Lname>Soliva</Lname>
+		</name>
+
+		<age>21</age>
+
+		<sex> female </sex>
+
+		<bday>
+			<month>06</month>
+			<day>02</day>
+			<year>2000</year>
+		</bday>
+
+		<address>
+			<city>n.a.</city>
+			<province>Iloilo</province>
+			<town>San Joaquin</town>
+		</address>
+
+	</person>
+
+	<person>
+		
+		<name>
+			<Fname>Will Ann Grace</Fname>
+			<Lname>Teves</Lname>
+		</name>
+
+		<age>21</age>
+
+		<sex> female </sex>
+
+		<bday>
+			<month>12</month>
+			<day>14</day>
+			<year>2000</year>
+		</bday>
+
+		<address>
+			<city>n.a</city>
+			<province>Iloilo</province>
+			<town>Guimbal</town>
+		</address>
+
+	</person>
+
+	<person>
+		
+		<name>
+			<Fname>Jhemes Cris</Fname>
+			<Lname>Colas</Lname>
+		</name>
+
+		<age>21</age>
+
+		<sex> male </sex>
+
+		<bday>
+			<month>12</month>
+			<day>08</day>
+			<year>2000</year>
+		</bday>
+
+		<address>
+			<city>n.a</city>
+			<province>Aklan</province>
+			<town>Kalibo</town>
+		</address>
+
+	</person>
+
+	<person>
+		
+		<name>
+			<Fname>Charles</Fname>
+			<Lname>Villafuerte</Lname>
+		</name>
+
+		<age>21</age>
+
+		<sex> male </sex>
+
+		<bday>
+			<month>04</month>
+			<day>28</day>
+			<year>2000</year>
+		</bday>
+
+		<address>
+			<city>n.a</city>
+			<province>Iloilo</province>
+			<town>Banate</town>
+		</address>
+
+	</person>
+
+	<person>
+		
+		<name>
+			<Fname>Asther Louie</Fname>
+			<Lname>Cabardo</Lname>
+		</name>
+
+		<age>21</age>
+
+		<sex> male </sex>
+
+		<bday>
+			<month>08</month>
+			<day>05</day>
+			<year>2000</year>
+		</bday>
+
+		<address>
+			<city>n.a</city>
+			<province>Iloilo</province>
+			<town>Leon</town>
+		</address>
+
+	</person>
+</people>

@@ -1,0 +1,15 @@
+<!ELEMENT people (person+)>
+<!ELEMENT person (name, age, sex, bday, address)>
+<!ELEMENT name (Fname,Lname)>
+<!ELEMENT bday (month,day,year)>
+<!ELEMENT address (city, province, town)>
+<!ELEMENT Fname (#PCDATA)>
+<!ELEMENT Lname (#PCDATA)>
+<!ELEMENT age (#PCDATA)>
+<!ELEMENT sex (#PCDATA)>
+<!ELEMENT month (#PCDATA)>
+<!ELEMENT day (#PCDATA)>
+<!ELEMENT year (#PCDATA)>
+<!ELEMENT city (#PCDATA)>
+<!ELEMENT province (#PCDATA)>
+<!ELEMENT town (#PCDATA)>

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<xs:schema xmlns:xs="http://www.w3.org/2001/XMLSchema" elementFormDefault="qualified" attributeFormDefault="unqualified">
+    
+<xs:element name="people">
+        <xs:complexType>
+                <xs:sequence>
+                    <xs:element name="person" maxOccurs="unbounded">
+                            <xs:complexType>
+                                    <xs:sequence>
+                                            <xs:element name="name">
+                                                <xs:complexType>
+                                                        <xs:sequence>
+                                                                <xs:element name="Fname" type="xs:string"></xs:element>
+                                                                <xs:element name="Lname" type="xs:string"></xs:element>
+                                                            </xs:sequence>
+                                                    </xs:complexType>
+                                            </xs:element>
+                                            <xs:element name="age" type="xs:int"></xs:element>
+                                            <xs:element name="sex" type="xs:string"></xs:element>
+                                            <xs:element name="bday">
+                                                <xs:complexType>
+                                                        <xs:sequence>
+                                                                <xs:element name="month" type="xs:int"></xs:element>
+                                                                <xs:element name="day" type="xs:int"></xs:element>
+                                                                <xs:element name="year" type="xs:int"></xs:element>
+                                                            </xs:sequence>
+                                                    </xs:complexType>
+                                            </xs:element>
+                                            <xs:element name="address">
+                                                <xs:complexType>
+                                                        <xs:sequence>
+                                                                <xs:element name="city" type="xs:string"></xs:element>
+                                                                <xs:element name="province" type="xs:string"></xs:element>
+                                                                <xs:element name="town" type="xs:string"></xs:element>
+                                                            </xs:sequence>
+                                                    </xs:complexType>
+                                            </xs:element>
+                                        </xs:sequence>
+                                </xs:complexType>
+                        </xs:element>
+                </xs:sequence>
+            </xs:complexType>
+    </xs:element>
+</xs:schema>
