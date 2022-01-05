@@ -1,6 +1,8 @@
 <?xml version = "1.0" encoding = "utf-8"?>
+<?xml-stylesheet type="text/xsl" href="people.xsl"?>
 
 <!DOCTYPE people SYSTEM "people.dtd">
+
 
 <people>
 	<person>
@@ -13,7 +15,7 @@
 
 		<age>21</age>
 
-		<sex> male </sex>
+		<sex>male</sex>
 
 		<bday>
 			<month>04</month>
@@ -216,7 +218,7 @@
 		<sex> male </sex>
 
 		<bday>
-			<month>08</month>
+			<month>09</month>
 			<day>05</day>
 			<year>2000</year>
 		</bday>
